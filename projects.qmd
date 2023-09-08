@@ -2,8 +2,11 @@
 title: "Projects"
 ---
 
-## Project 1
+## Shrinkage Estimation of Multiple SPD Matrices
 
-## Project 2
+- Code: [github](https://github.com/chun-hao/SPD-SURE)
 
-## Project 3
+## Nested Grassmannians for Dimension Reduction
+
+- Code: [github](https://github.com/chun-hao/NestedGrassmann)
+

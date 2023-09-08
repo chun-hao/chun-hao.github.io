@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "STAT 5004 — Theory of Statistics I (former Advanced Statistical Inference I), Fall 2021, Fall 2022\nSTAT 5005 — Theory of Statistics II (former Advanced Statistical Inference II), Spring 2022, Spring 2023\nSTAT 5010 — Bayesian Statistical Methods, Fall 2023"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+).\n\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21.\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245.\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457."
+  },
+  {
+    "objectID": "publication.html#journal-publications",
+    "href": "publication.html#journal-publications",
+    "title": "Publication",
+    "section": "",
+    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+).\n\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21.\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245.\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457."
+  },
+  {
+    "objectID": "publication.html#conference-publications",
+    "href": "publication.html#conference-publications",
+    "title": "Publication",
+    "section": "Conference Publications",
+    "text": "Conference Publications\n\nJose J. Bouza, Chun-Hao Yang, and Baba C. Vemuri. Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images in International Conference on Information Processing in Medical Imaging (IPMI), 2023.\nXiran Fan, Chun-Hao Yang, and Baba C. Vemuri. Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design in Computer Vision and Machine Learning (CVPR), 2022.\nChun-Hao Yang and Baba C. Vemuri. Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\nJose J. Bouza, Chun-Hao Yang, David Vaillancourt, and Baba C. Vemuri. A Higher Order Manifold-Valued Convolutional Neural Network with Applications in Diffusion MRI Processing in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\nChun-Hao Yang and Baba C. Vemuri. Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices with Applications to Neuroimaging in International Conference on Information Processing in Medical Imaging (IPMI), 2019.\nRudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, Monami Banerjee, Derek Archer, David Vaillancourt, Vikas Singh and Baba C. Vemuri. A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices in Advances in Neural Information Processing Systems (NeurIPS), 2018.\nRudrasis Chakraborty, Chun-Hao Yang, and Baba C. Vemuri, A Mixture Model for Aggregation of Multiple Pre-trained Weak Classifiers in 4th International Workshop on Diff-CVML: Differential Geometry in Computer Vision and Machine Learning (CVPR), 2018."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Code: github"
+  },
+  {
+    "objectID": "projects.html#shrinkage-estimation-of-multiple-spd-matrices",
+    "href": "projects.html#shrinkage-estimation-of-multiple-spd-matrices",
+    "title": "Projects",
+    "section": "",
+    "text": "Code: github"
+  },
+  {
+    "objectID": "projects.html#nested-grassmannians-for-dimension-reduction",
+    "href": "projects.html#nested-grassmannians-for-dimension-reduction",
+    "title": "Projects",
+    "section": "Nested Grassmannians for Dimension Reduction",
+    "text": "Nested Grassmannians for Dimension Reduction\n\nCode: github"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently an Assistant Professor at the Institute of Statistics and Data Science at the National Taiwan University. I received my Ph.D. in Statistics from the University of Florida in May 2021. My research interests include statistical analysis of non-Euclidean data, geometric statistics, and Bayesian statistics."
   }
 ]

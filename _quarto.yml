@@ -10,8 +10,10 @@ website:
         text: Home
       - href: teaching.qmd
         text: Teaching
-      - href: research.qmd
-        text: Research
+      - href: publication.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
     tools:
       - icon: github
         href: https://github.com/chun-hao/chun-hao.github.io

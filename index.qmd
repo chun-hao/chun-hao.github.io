@@ -2,3 +2,4 @@
 title: "About Me"
 ---
 
+I am currently an Assistant Professor at the Institute of Statistics and Data Science at the National Taiwan University. I received my Ph.D. in Statistics from the University of Florida in May 2021. My research interests include statistical analysis of non-Euclidean data, geometric statistics, and Bayesian statistics.
