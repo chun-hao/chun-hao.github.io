@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Chun-Hao Yang"
@@ -21,10 +23,12 @@ website:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Chun-Hao Yang"
 
+
 format:
   html:
     theme: simplex
     toc: true
+
 
 editor: source
 
