@@ -4,4 +4,4 @@ title: "Teaching"
 
 - STAT 5004 — Theory of Statistics I (former Advanced Statistical Inference I), Fall 2021, Fall 2022
 - STAT 5005 — Theory of Statistics II (former Advanced Statistical Inference II), Spring 2022, Spring 2023
-- [STAT 5010](https://chun-hao.github.io/stat-5010/) — Bayesian Statistical Methods, Fall 2023
+- [STAT 5010](https://chunhaoy.com/stat-5010/) — Bayesian Statistical Methods, Fall 2023
