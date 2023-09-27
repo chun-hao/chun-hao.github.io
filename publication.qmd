@@ -4,7 +4,7 @@ title: "Publication"
 
 ## Journal Publications
 
--   **Chun-Hao Yang**, Hani Doss, and Baba C. Vemuri. *An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices*. Journal of the American Statistical Association (2023+). [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2110877) [\[code\]](https://github.com/chun-hao/SPD-SURE)
+-   **Chun-Hao Yang**, Hani Doss, and Baba C. Vemuri. *An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices*. Journal of the American Statistical Association (2023+) Accepted. [\[paper\]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2110877) [\[code\]](https://github.com/chun-hao/SPD-SURE)
 
 -   **Chun-Hao Yang**, and Baba C. Vemuri. *Nested Grassmannians for Dimensionality Reduction with Applications*. Journal of Machine Learning for Biomedical Images (2022): 1--21. [\[paper\]](https://www.melba-journal.org/papers/2022:002.html) [\[code\]](https://github.com/chun-hao/NestedGrassmann)
 
@@ -13,6 +13,8 @@ title: "Publication"
 -   Ping-Yang Chen, Ching-Chuan Chen, **Chun-Hao Yang**, Sheng-Mao Chang, and Kuo-Jung Lee. *milr: Multiple-Instance Logistic Regression with Lasso Penalty*. R Journal 9, no. 1 (2017): 446--457. [\[paper\]](https://journal.r-project.org/articles/RJ-2017-013/RJ-2017-013.pdf) [\[code\]](https://github.com/PingYangChen/milr)
 
 ## Conference Publications
+
+- Xiran Fan, **Chun-Hao Yang**, Baba C. Vemuri. *Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space* in Advances in Neural Information Processing Systems (NeurIPS), 2023.
 
 - Jose J. Bouza, **Chun-Hao Yang**, and Baba C. Vemuri. *Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images* in International Conference on Information Processing in Medical Imaging (IPMI), 2023.
 
