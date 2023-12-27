@@ -1,31 +1,52 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chun-Hao Yang",
     "section": "",
-    "text": "STAT 5004 — Theory of Statistics I (former Advanced Statistical Inference I), Fall 2021, Fall 2022\nSTAT 5005 — Theory of Statistics II (former Advanced Statistical Inference II), Spring 2022, Spring 2023\nSTAT 5010 — Bayesian Statistical Methods, Fall 2023"
+    "text": "Ph.D. in Statistics, University of Florida, 2021\nB.B.A. in Statistics, National Cheng Kung University, 2013"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chun-Hao Yang",
+    "section": "",
+    "text": "Ph.D. in Statistics, University of Florida, 2021\nB.B.A. in Statistics, National Cheng Kung University, 2013"
+  },
+  {
+    "objectID": "index.html#experiences",
+    "href": "index.html#experiences",
+    "title": "Chun-Hao Yang",
+    "section": "Experiences",
+    "text": "Experiences\n\n2023/08 - present: Assistant Professor, Institute of Statistics and Data Sciences, National Taiwan University.\n2021/08 - 2023/07: Assistant Professor, Institute of Applied Mathematical Sciences, National Taiwan University."
   },
   {
     "objectID": "publication.html",
     "href": "publication.html",
     "title": "Publication",
     "section": "",
-    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+) Accepted. [paper] [code]\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21. [paper] [code]\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245. [paper] [code]\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457. [paper] [code]"
+    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+) Accepted.\n\nDOI: https://doi.org/10.1080/01621459.2022.2110877\nGithub: SPD-SURE\n\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21.\n\nDOI: https://doi.org/10.59275/j.melba.2022-234f\n\nGithub: NetstedGrassmann\n\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245.\n\nDOI: https://doi.org/10.1080/00401706.2018.1512900\nGithub: abc-adm\n\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457.\n\nDOI: https://doi.org/10.32614/RJ-2017-013\nGithub: milr"
   },
   {
     "objectID": "publication.html#journal-publications",
     "href": "publication.html#journal-publications",
     "title": "Publication",
     "section": "",
-    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+) Accepted. [paper] [code]\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21. [paper] [code]\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245. [paper] [code]\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457. [paper] [code]"
+    "text": "Chun-Hao Yang, Hani Doss, and Baba C. Vemuri. An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices. Journal of the American Statistical Association (2023+) Accepted.\n\nDOI: https://doi.org/10.1080/01621459.2022.2110877\nGithub: SPD-SURE\n\nChun-Hao Yang, and Baba C. Vemuri. Nested Grassmannians for Dimensionality Reduction with Applications. Journal of Machine Learning for Biomedical Images (2022): 1–21.\n\nDOI: https://doi.org/10.59275/j.melba.2022-234f\n\nGithub: NetstedGrassmann\n\nChun-Hao Yang, James V. Zidek, and Samuel W. K. Wong. Bayesian Analysis of Accumulated Damage Models in Lumber Reliability. Technometrics 61, no. 2 (2019): 233–245.\n\nDOI: https://doi.org/10.1080/00401706.2018.1512900\nGithub: abc-adm\n\nPing-Yang Chen, Ching-Chuan Chen, Chun-Hao Yang, Sheng-Mao Chang, and Kuo-Jung Lee. milr: Multiple-Instance Logistic Regression with Lasso Penalty. R Journal 9, no. 1 (2017): 446–457.\n\nDOI: https://doi.org/10.32614/RJ-2017-013\nGithub: milr"
   },
   {
     "objectID": "publication.html#conference-publications",
     "href": "publication.html#conference-publications",
     "title": "Publication",
     "section": "Conference Publications",
-    "text": "Conference Publications\n\nXiran Fan, Chun-Hao Yang, Baba C. Vemuri. Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space in Advances in Neural Information Processing Systems (NeurIPS), 2023.\nJose J. Bouza, Chun-Hao Yang, and Baba C. Vemuri. Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images in International Conference on Information Processing in Medical Imaging (IPMI), 2023.\nXiran Fan, Chun-Hao Yang, and Baba C. Vemuri. Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design in Computer Vision and Machine Learning (CVPR), 2022.\nChun-Hao Yang and Baba C. Vemuri. Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\nJose J. Bouza, Chun-Hao Yang, David Vaillancourt, and Baba C. Vemuri. A Higher Order Manifold-Valued Convolutional Neural Network with Applications in Diffusion MRI Processing in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\nChun-Hao Yang and Baba C. Vemuri. Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices with Applications to Neuroimaging in International Conference on Information Processing in Medical Imaging (IPMI), 2019.\nRudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, Monami Banerjee, Derek Archer, David Vaillancourt, Vikas Singh and Baba C. Vemuri. A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices in Advances in Neural Information Processing Systems (NeurIPS), 2018.\nRudrasis Chakraborty, Chun-Hao Yang, and Baba C. Vemuri, A Mixture Model for Aggregation of Multiple Pre-trained Weak Classifiers in 4th International Workshop on Diff-CVML: Differential Geometry in Computer Vision and Machine Learning (CVPR), 2018."
+    "text": "Conference Publications\n\nXiran Fan, Chun-Hao Yang, Baba C. Vemuri. Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space in Advances in Neural Information Processing Systems (NeurIPS), 2023.\nJose J. Bouza, Chun-Hao Yang, and Baba C. Vemuri. Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images in International Conference on Information Processing in Medical Imaging (IPMI), 2023.\n\nDOI: https://doi.org/10.1007/978-3-031-34048-2_43\n\nXiran Fan, Chun-Hao Yang, and Baba C. Vemuri. Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design in Computer Vision and Machine Learning (CVPR), 2022.\n\nDOI: https://doi.org/10.1109/CVPR52688.2022.00045\n\nChun-Hao Yang and Baba C. Vemuri. Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\n\nDOI: https://doi.org/10.1007/978-3-030-78191-0_11\n\nJose J. Bouza, Chun-Hao Yang, David Vaillancourt, and Baba C. Vemuri. A Higher Order Manifold-Valued Convolutional Neural Network with Applications in Diffusion MRI Processing in International Conference on Information Processing in Medical Imaging (IPMI), 2021.\n\nDOI: https://doi.org/10.1007/978-3-030-78191-0_24\n\nChun-Hao Yang and Baba C. Vemuri. Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices with Applications to Neuroimaging in International Conference on Information Processing in Medical Imaging (IPMI), 2019.\n\nDOI: https://doi.org/10.1007/978-3-030-20351-1_44\n\nRudrasis Chakraborty, Chun-Hao Yang, Xingjian Zhen, Monami Banerjee, Derek Archer, David Vaillancourt, Vikas Singh and Baba C. Vemuri. A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices in Advances in Neural Information Processing Systems (NeurIPS), 2018.\n\nhttps://papers.nips.cc/paper_files/paper/2018/hash/7070f9088e456682f0f84f815ebda761-Abstract.html\n\nRudrasis Chakraborty, Chun-Hao Yang, and Baba C. Vemuri, A Mixture Model for Aggregation of Multiple Pre-trained Weak Classifiers in 4th International Workshop on Diff-CVML: Differential Geometry in Computer Vision and Machine Learning (CVPR), 2018.\n\nDOI: https://doi.org/10.1109/CVPRW.2018.00074"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "STAT 5004 — Theory of Statistics I (former Advanced Statistical Inference I), Fall 2021, Fall 2022\nSTAT 5005 — Theory of Statistics II (former Advanced Statistical Inference II), Spring 2022, Spring 2023\nSTAT 5010 — Bayesian Statistical Methods, Fall 2023"
   },
   {
     "objectID": "projects.html",
@@ -47,26 +68,5 @@
     "title": "Projects",
     "section": "Nested Grassmannians for Dimension Reduction",
     "text": "Nested Grassmannians for Dimension Reduction\n\nCode: github"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chun-Hao Yang",
-    "section": "",
-    "text": "Ph.D. in Statistics, University of Florida, 2021\nB.B.A. in Statistics, National Cheng Kung University, 2013"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Chun-Hao Yang",
-    "section": "",
-    "text": "Ph.D. in Statistics, University of Florida, 2021\nB.B.A. in Statistics, National Cheng Kung University, 2013"
-  },
-  {
-    "objectID": "index.html#experiences",
-    "href": "index.html#experiences",
-    "title": "Chun-Hao Yang",
-    "section": "Experiences",
-    "text": "Experiences\n\n2023/08 - present: Assistant Professor, Institute of Statistics and Data Sciences, National Taiwan University.\n2021/08 - 2023/07: Assistant Professor, Institute of Applied Mathematical Sciences, National Taiwan University."
   }
 ]
