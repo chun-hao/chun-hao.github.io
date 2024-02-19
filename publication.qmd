@@ -23,6 +23,7 @@ title: "Publication"
 ## Conference Publications
 
 - Xiran Fan, **Chun-Hao Yang**, Baba C. Vemuri. *Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space* in Advances in Neural Information Processing Systems (NeurIPS), 2023.
+    +   <https://proceedings.neurips.cc/paper_files/paper/2023/hash/24cb8b08f3cb2f59671e33faac4790e6-Abstract-Conference.html>
 
 - Jose J. Bouza, **Chun-Hao Yang**, and Baba C. Vemuri. *Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images* in International Conference on Information Processing in Medical Imaging (IPMI), 2023.
     +   DOI: <https://doi.org/10.1007/978-3-031-34048-2_43>
