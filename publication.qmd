@@ -14,18 +14,18 @@ title: "Publication"
 
 ## Conference Publications
 
-- Xiran Fan, **Chun-Hao Yang**, Baba C. Vemuri. [*Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space*](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24cb8b08f3cb2f59671e33faac4790e6-Abstract-Conference.html) @ NeurIPS, 2023.
+- (with X. Fan and B. C. Vemuri) [*Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space*](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24cb8b08f3cb2f59671e33faac4790e6-Abstract-Conference.html) @ NeurIPS (2023).
 
-- Jose J. Bouza, **Chun-Hao Yang**, and Baba C. Vemuri. [*Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images*](https://doi.org/10.1007/978-3-031-34048-2_43) @ IPMI, 2023.
+- (with J. J. Bouza and B. C. Vemuri) [*Geometric Deep Learning for Unsupervised Registration of Diffusion Magnetic Resonance Images*](https://doi.org/10.1007/978-3-031-34048-2_43) @ IPMI (2023).
 
-- Xiran Fan, **Chun-Hao Yang**, and Baba C. Vemuri. [*Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design*](https://doi.org/10.1109/CVPR52688.2022.00045) @ CVPR, 2022.
+- (with X. Fan and B. C. Vemuri) [*Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design*](https://doi.org/10.1109/CVPR52688.2022.00045) @ CVPR (2022).
 
-- **Chun-Hao Yang** and Baba C. Vemuri. [*Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis*](https://doi.org/10.1007/978-3-030-78191-0_11) @ IPMI, 2021.
+- (with B. C. Vemuri) [*Nested Grassmanns for Dimensionality Reduction with Applications to Shape Analysis*](https://doi.org/10.1007/978-3-030-78191-0_11) @ IPMI (2021).
 
-- Jose J. Bouza, **Chun-Hao Yang**, David Vaillancourt, and Baba C. Vemuri. [*A Higher Order Manifold-Valued Convolutional Neural Network with Applications in Diffusion MRI Processing*](https://doi.org/10.1007/978-3-030-78191-0_24) @ IPMI, 2021.
+- (with J. J. Bouza, D. Vaillancourt, and B. C. Vemuri) [*A Higher Order Manifold-Valued Convolutional Neural Network with Applications in Diffusion MRI Processing*](https://doi.org/10.1007/978-3-030-78191-0_24) @ IPMI (2021).
 
-- **Chun-Hao Yang** and Baba C. Vemuri. [*Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices with Applications to Neuroimaging*](https://doi.org/10.1007/978-3-030-20351-1_44) @ IPMI, 2019.
+- (with B. C. Vemuri) [*Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices with Applications to Neuroimaging*](https://doi.org/10.1007/978-3-030-20351-1_44) @ IPMI (2019).
 
-- Rudrasis Chakraborty, **Chun-Hao Yang**, Xingjian Zhen, Monami Banerjee, Derek Archer, David Vaillancourt, Vikas Singh and Baba C. Vemuri. [*A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices*](https://papers.nips.cc/paper_files/paper/2018/hash/7070f9088e456682f0f84f815ebda761-Abstract.html) @ NeurIPS, 2018.
+- (with R. Chakraborty, X. Zhen, M. Banerjee, D. Archer, D. Vaillancourt, V. Singh and B. C. Vemuri) [*A Statistical Recurrent Model on the Manifold of Symmetric Positive Definite Matrices*](https://papers.nips.cc/paper_files/paper/2018/hash/7070f9088e456682f0f84f815ebda761-Abstract.html) @ NeurIPS (2018).
 
-- Rudrasis Chakraborty, **Chun-Hao Yang**, and Baba C. Vemuri, [*A Mixture Model for Aggregation of Multiple Pre-trained Weak Classifiers*](https://doi.org/10.1109/CVPRW.2018.00074) @ CVPRW, 2018.
+- (with R. Chakraborty and B. C. Vemuri) [*A Mixture Model for Aggregation of Multiple Pre-trained Weak Classifiers*](https://doi.org/10.1109/CVPRW.2018.00074) @ CVPRW (2018).
