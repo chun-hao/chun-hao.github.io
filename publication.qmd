@@ -4,11 +4,11 @@ title: "Publication"
 
 ## Journal Publications
 
--   **Chun-Hao Yang**, Hani Doss, and Baba C. Vemuri. [*An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices*](https://doi.org/10.1080/01621459.2022.2110877). Journal of the American Statistical Association (2023+) Accepted.
+-   **Chun-Hao Yang**, Hani Doss, and Baba C. Vemuri. [*An Empirical Bayes Approach to Shrinkage Estimation on the Manifold of Symmetric Positive-Definite Matrices*](https://doi.org/10.1080/01621459.2022.2110877). Journal of the American Statistical Association 116, no.\ 545 (2024): 259--272.
 
 -   **Chun-Hao Yang**, and Baba C. Vemuri. [*Nested Grassmannians for Dimensionality Reduction with Applications*](https://doi.org/10.59275/j.melba.2022-234f). Journal of Machine Learning for Biomedical Images (2022): 1--21.
 
--   **Chun-Hao Yang**, James V. Zidek, and Samuel W. K. Wong. [*Bayesian Analysis of Accumulated Damage Models in Lumber Reliability*](https://doi.org/10.1080/00401706.2018.1512900). Technometrics 61, no. 2 (2019): 233--245. 
+-   **Chun-Hao Yang**, James V. Zidek, and Samuel W. K. Wong. [*Bayesian Analysis of Accumulated Damage Models in Lumber Reliability*](https://doi.org/10.1080/00401706.2018.1512900). Technometrics 61, no.\ 2 (2019): 233--245. 
 
 -   Ping-Yang Chen, Ching-Chuan Chen, **Chun-Hao Yang**, Sheng-Mao Chang, and Kuo-Jung Lee. [*milr: Multiple-Instance Logistic Regression with Lasso Penalty*](https://doi.org/10.32614/RJ-2017-013). R Journal 9, no. 1 (2017): 446--457. 
 
